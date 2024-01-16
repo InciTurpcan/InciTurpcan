@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İnci TURPCAN</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 - 🔭 I’m currently working on [CarBook](https://github.com/InciTurpcan/CarBook)
 
